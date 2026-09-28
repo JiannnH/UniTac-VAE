@@ -1,0 +1,6 @@
+# Versions the released checkpoints were produced and tested with (PyTorch 2.7, CUDA 12.8)
+torch==2.7.1
+numpy==2.0.1
+pandas==2.2.3
+h5py==3.16.0
+matplotlib==3.10.0
