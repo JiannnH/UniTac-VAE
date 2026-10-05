@@ -2,11 +2,20 @@
 
 Paired recordings from **four commercial tactile sensors** (GelSight Mini, DIGIT, Contactile PapillArray, XELA uSkin uSPa 46) pressed on **3D-printed replicas of four YCB objects**, each sample paired with a **contact depth map** computed from the object mesh and the recorded end-effector pose. Released with the paper
 
+
+
 > **UniTac-VAE: A Depth-Aligned Latent Space for Sensor-Agnostic Tactile Representation**
 > Jian Hou and Adam J. Spiers, *IEEE Robotics and Automation Letters*, vol. 11, no. 10, 2026.
 > [doi:10.1109/LRA.2026.3726336](https://doi.org/10.1109/LRA.2026.3726336)
 
+
+https://github.com/user-attachments/assets/d0407985-e56f-450e-b43e-e52ccd2dfb18
+
+
 This repository documents the dataset and visualisation tool: the reference UniTac-VAE models and a script that translates any sample between the four sensors and the depth map, so you can see what the data looks like across modalities.
+
+
+
 
 <p align="center"><img src="examples/data_collection.gif" alt="data collection" width="560"></p>
 
